@@ -9,3 +9,9 @@
     width: 900px;
     margin: 50px auto;
 }
+
+.column{
+    display: inline-block;
+    width: calc(100% / 3);
+    
+}

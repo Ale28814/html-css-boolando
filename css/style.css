@@ -6,7 +6,7 @@
 }
 
 .container{
-    width: 900px;
+    width: 750px;
     margin: 50px auto;
 }
 
@@ -29,5 +29,21 @@
     position: absolute;
     left: 0;
     bottom: 15px;
+    padding: 2px;
+    color: white;
+}
 
+.scont.badg-1{
+    background: red;
+}
+
+.scont.badg-2{
+    background: green;
+    left: 50px;
+}
+
+.scont.model-badg{
+    background: green;
+    left: 0;
+    bottom: 15px;
 }

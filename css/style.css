@@ -85,3 +85,20 @@
     display: block;
     color: red;
 }
+
+/*SET DETAIL*/
+
+.detail{
+    position: absolute;
+    background: white;
+    font-size: 8px;
+}
+
+.price{
+    color: red;
+}
+
+.detail span{
+    text-decoration: line-through;
+    color: black;
+}
